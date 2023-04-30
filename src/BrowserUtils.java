@@ -6,4 +6,6 @@ public class BrowserUtils {
     // ..
 
     // dropdown util
+
+    // search util
 }
